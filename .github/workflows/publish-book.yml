@@ -15,7 +15,7 @@ env:
   NMA_REPO: climate-course-content
   NMA_MAIN_BRANCH: main
   PREREQ_INTRO: ClimateScience
-  ORG: neuromatch
+  ORG: abodner
 
 # This job installs dependencies, builds the book, and pushes it to `gh-pages`
 jobs:
