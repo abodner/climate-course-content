@@ -21,7 +21,7 @@ env:
   NB_KERNEL: climate
   NMA_REPO: climate-course-content
   NMA_MAIN_BRANCH: main
-  ORG: neuromatch
+  ORG: abodner
 
 defaults:
   run:
