@@ -3,7 +3,7 @@
 - file: projects/keynote.ipynb
   title: Project Day keynote (W2D5)
 - file: projects/docs/project_guidance.md
-  title: Daily guide for projects
+  title: Guide for projects
 - file: projects/docs/datasets_overview.md
   title: Project materials
   sections:
@@ -13,8 +13,6 @@
     title: Ocean Acidification
   - file: projects/project-notebooks/Precipitation_variability_extreme_events_2024.ipynb
     title: Precipitation Variability and Extreme Events
-- file: projects/docs/continuing_your_project_after_the_course.md
-  title: Continuing your project after the course
 - file: projects/docs/past_projects_overview.md
   title: Past projects
   sections:

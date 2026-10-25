@@ -9,8 +9,6 @@ Please check out [expected prerequisites here](https://github.com/NeuromatchAcad
 
 **The content should primarily be accessed from our ebook: https://comptools.climatematch.io [under continuous development]**
 
-**Schedule: https://github.com/neuromatch/climate-course-content/blob/main/tutorials/Schedule/daily_schedules.md and https://comptools.climatematch.io/tutorials/Schedule/daily_schedules.html**
-
 ---
 
 ## Licensing
