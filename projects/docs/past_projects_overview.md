@@ -12,4 +12,4 @@ Browse the project presentations by topic:
 - [Heatwaves: Assessing the dynamic interactions of the atmosphere and land](../past-projects/heatwaves.ipynb)
 - [Ocean Acidification](../past-projects/ocean_acidification.ipynb)
 
-The original slide decks (PDF) are available in the [project-presentations folder](https://github.com/neuromatch/climate-course-content/tree/main/projects/past-projects/project-presentations) on GitHub.
+The original slide decks (PDF) are available in the [project-presentations folder](https://github.com/abodner/climate-course-content/tree/main/projects/past-projects/project-presentations) on GitHub.
