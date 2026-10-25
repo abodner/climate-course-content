@@ -1,6 +1,6 @@
 # Professional Development
 
-Ahead of the course, we will offer a variety of Professional Development opportunities. During the course, you will engage with Impact Talks. 
+Professional Development opportunities are available alongside the course materials. They include Impact Talks. 
 
 ## Why Professional Development?
 
